@@ -61,9 +61,10 @@ To rebuild the live URL for a workbook whose posted name was trailered, take the
 | Movies Across Time & Space (Re-Viz) \| #VOTD | `/viz/MoviesAcrossTimeSpaceRe-Viz/MoviesAcrossTimeSpace` | `documentation_viz_MoviesAcrossTimeSpaceRe-Viz.md` |
 | All In The Wins \| #VOTD | `/viz/AllIntheWins/RoadtotheWorldSeries` | `documentation_viz_AllIntheWins.md` |
 | Viz Design Catalog \| #VOTD | `/viz/VizDesignCatalog/Vol_I` | `documentation_viz_VizDesignCatalog.md` |
-| HR Attrition Dashboard \| #VOTD | `/viz/HRAttritionDashboard_17728329067570/HRAttrition` | `documentation_viz_HRAttritionDashboard.md` |
 
-The last row is the rule in action: the live URL keeps Tableau's trailer, the filename does not.
+None of the four needed the trailer rule — their repository names are already clean. The two that
+did are `HRAttritionDashboard_17728329067570` and `NewYearsResolutionsMakeoverMonday_17054389050480`,
+both shortened to their readable stem while their documents keep the full live URL in §0.
 
 **One exception to one-file-per-viz.** `VizDesignCatalog` is a single workbook published as four
 separate vizzes (Vol. I–IV). It is documented once, under Vol. I's name, with the sibling URLs
