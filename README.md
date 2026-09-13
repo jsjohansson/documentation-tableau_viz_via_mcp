@@ -47,9 +47,9 @@ That means the suffixes Tableau appends are kept verbatim:
 
 | Display title | File |
 |---|---|
-| HR Attrition Dashboard | `documentation_viz_HRAttritionDashboard_17728329067570.md` |
-| New Year's Resolutions | `documentation_viz_NewYearsResolutionsMakeoverMonday_17054389050480.md` |
-| No Limits Scatter Plot | `documentation_viz_B2VB_001.md` |
+| HR Attrition Dashboard | `documentation_viz_HRAttritionDashboard.md` |
+| New Year's Resolutions | `documentation_viz_NewYearsResolutionsMakeoverMonday.md` |
+| No Limits Scatter Plot | `documentation_viz_B2VB.md` |
 
 **One exception.** `VizDesignCatalog` is a single workbook published as four separate vizzes
 (Vol. I–IV). It is documented once, under Vol. I's repository name, with the sibling URLs recorded
