@@ -1,3 +1,5 @@
+<img width="2400" height="3000" alt="MCP_Explain" src="https://github.com/user-attachments/assets/54fb52c1-1369-43dd-aab5-06626c314a1c" />
+
 # Tableau Portfolio Documentation
 
 Technical documentation for every workbook published at
