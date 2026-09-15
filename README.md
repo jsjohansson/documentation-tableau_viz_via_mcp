@@ -41,20 +41,6 @@ https://public.tableau.com/app/profile/john.johansson/viz/SuperstoreShippingMetr
                                                    documentation_viz_SuperstoreShippingMetrics.md
 ```
 
-It is deliberately *not* the display title and *not* the local `.twbx` filename, both of which
-drift. The posted name is the one identifier that is stable and resolvable.
-
-**The trailer rule.** When a repository name collides with an existing one, Tableau appends a long
-generated number — `_17728329067570`. It carries no meaning, changes nothing about which viz is
-which, and makes filenames unreadable. Strip it:
-
-```
-HRAttritionDashboard_17728329067570   →   documentation_viz_HRAttritionDashboard.md
-```
-
-To rebuild the live URL for a workbook whose posted name was trailered, take the URL recorded in
-§0 of the document itself, which is always the full published form.
-
 ### Examples — the #VOTD workbooks
 
 | Published title | Live viz | File |
